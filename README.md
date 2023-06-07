@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1>
 <h3 align="center">Exploring the Data Universe: Unleashing Insights with Code</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1275374418&psig=AOvVaw1vKLOT9c5F-J-JpXox2mCI&ust=1686196389011000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPC55JihsP8CFQAAAAAdAAAAABBm">
+<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/922543831008219144/3AD9FCC897208D9E0BB8E26247708BEAC66E259A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 - 🌱 I’m currently learning **Transfer Learning**
 
