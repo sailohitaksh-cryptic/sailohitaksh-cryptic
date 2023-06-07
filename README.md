@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1>
 <h3 align="center">Exploring the Data Universe: Unleashing Insights with Code</h3>
 
-<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/922543831008219144/3AD9FCC897208D9E0BB8E26247708BEAC66E259A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="coding" width="400" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gifcrop.gif">
 
 - 🌱 I’m currently learning **Transfer Learning**
 
