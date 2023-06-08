@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gifcrop.gif">
 
-- 🌱 I’m currently learning Final year student at TIET, Patiala.
+- 🌱 I’m currently a **Final year student** at **TIET, Patiala.**
 
 - 💬 Ask me about **Machine Learning**
 
