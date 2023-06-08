@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1>
-<h3 align="center">Exploring the Data Universe: Unleashing Insights with Code</h3>
+<h3 align="center">"Exploring the Data Universe: Unleashing Insights with Code"</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gifcrop.gif">
 
-- 🌱 I’m currently learning **Transfer Learning**
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://sailohitaksh.wixsite.com/portfolio)
+- 🌱 I’m currently learning Final year student at TIET, Patiala.
 
 - 💬 Ask me about **Machine Learning**
 
