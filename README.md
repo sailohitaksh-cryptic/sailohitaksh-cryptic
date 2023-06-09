@@ -32,4 +32,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailohitaksh-cryptic&label=Profile%20views&color=0371b5&style=plastic" alt="sailohitaksh-cryptic" /> </p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sailohitaksh-cryptics's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sailohitaksh-cryptic&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sailohitaksh-cryptics's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sailohitaksh-cryptic&bg_color=00000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
