@@ -3,7 +3,7 @@
 <img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=652EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile;Computer+Science+Student;Data+Scientist;Software+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lemonmilk&pause=100&color=652EF7&center=true&vCenter=true&width=435&lines=Welcome,+I'm+a;Computer+Science+Student;Data+Science+Enthusiast;Flutter+Developer">
 </div>
 
 --- 
@@ -11,9 +11,9 @@
 <img align="right" alt="coding" width="405" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gifcrop.gif">
 
 
-- 🌱 I’m currently a **Final year student** at **TIET, Patiala.**
+- 🌱 I’m currently a **Final year student** at [**TIET, Patiala.**](https://www.thapar.edu/)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 I am open to projects/research related to **Machine Learning, Data Science, Computer Vision** 
 
 - 📄 Know about my experiences [here](https://sailohitaksh.wixsite.com/portfolio)
 
