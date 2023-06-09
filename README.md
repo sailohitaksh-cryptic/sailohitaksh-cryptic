@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1>
 
-<img align="center" alt="coding" width="400" src="https://thumbs.gfycat.com/FairThankfulEgg-size_restricted.gif">
 
 <h3 align="center">"Exploring the Data Universe: Unleashing Insights with Code"</h3>
-
 <img align="right" alt="coding" width="405" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gifcrop.gif">
+
 
 - 🌱 I’m currently a **Final year student** at **TIET, Patiala.**
 
