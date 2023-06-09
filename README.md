@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **rainasai603@gmail.com**
-
 - 📄 Know about my experiences [here](https://sailohitaksh.wixsite.com/portfolio)
 
 <h3 align="left">Connect with me:</h3>
