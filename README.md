@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1>
-<h3 align="center">"Exploring the Data Universe: Unleashing Insights with Code"</h3>
+<h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1> 
+<h3 align="center">"Exploring the Data Universe: Unleashing Insights with Code"</h3> 
+
 <img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
 
 <div align="center">
@@ -38,11 +39,11 @@
 
 ---
 <h3 align="left">Github Stats:</h3>
-<p><img align="left" width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=sailohitaksh-cryptic&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sailohitaksh-cryptic" /></p>
+<!--<p><img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=sailohitaksh-cryptic&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sailohitaksh-cryptic" /> <img align = "right" src="https://komarev.com/ghpvc/?username=sailohitaksh-cryptic&label=Profile%20views&color=0371b5&style=plastic" alt="sailohitaksh-cryptic" /></p>-->
 
-![Sai Lohitaksh Reddy D's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailohitaksh-cryptic&hide=contribs,issues&theme=github_dark&rank_icon=github&include_all_commits=false)
+<!--[Sai Lohitaksh Reddy D's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailohitaksh-cryptic&hide=contribs,issues&theme=github_dark&rank_icon=github&include_all_commits=false)-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sailohitaksh-cryptic&label=Profile%20views&color=0371b5&style=plastic" alt="sailohitaksh-cryptic" /> </p>
+<div align = "center"><img src="https://github.com/sailohitaksh-cryptic/github-stats-terminal-style/blob/master/github_stats.svg" /></div>
 
 ![Snake animation](https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/output/github-contribution-grid-snake.svg)
 
