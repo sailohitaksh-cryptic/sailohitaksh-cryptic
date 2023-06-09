@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1>
-
-
 <h3 align="center">"Exploring the Data Universe: Unleashing Insights with Code"</h3>
+<img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=652EF7&center=true&vCenter=true&width=435&lines=Flutter+developer;Data+Scientist;Welcome+to+my+GitHub+profile">
+</div>
 <img align="right" alt="coding" width="405" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gifcrop.gif">
 
 
