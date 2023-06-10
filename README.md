@@ -3,8 +3,8 @@
 
 <img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lemonmilk&pause=100&color=417E87&center=true&vCenter=true&width=435&lines=Welcome,+I'm+a;Computer+Science+Student;Data+Science+Enthusiast;Flutter+Developer">
+<div align = "center">
+<img src= "https://readme-typing-svg.herokuapp.com?font=Lemon+Milk&weight=300&size=20&duration=2500&pause=500&color=31B6FF&center=true&vCenter=true&multiline=true&repeat=False&width=1000&height=135&lines=Welcome+to+my+GitHub+profile%2C+where+I+merge+the+realms;of+data+science+and+computer+science+in+a+symphony++of+;code+and+algorithms.+As+a+passionate+computer+science+;student%2C+I'm+constantly+exploring+the+ever-expanding;+universe+of+data-driven+insights."/>
 </div>
 
 --- 
