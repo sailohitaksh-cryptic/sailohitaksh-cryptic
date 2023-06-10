@@ -4,7 +4,7 @@
 <img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lemonmilk&pause=100&color=652EF7&center=true&vCenter=true&width=435&lines=Welcome,+I'm+a;Computer+Science+Student;Data+Science+Enthusiast;Flutter+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lemonmilk&pause=100&color=417E87&center=true&vCenter=true&width=435&lines=Welcome,+I'm+a;Computer+Science+Student;Data+Science+Enthusiast;Flutter+Developer">
 </div>
 
 --- 
