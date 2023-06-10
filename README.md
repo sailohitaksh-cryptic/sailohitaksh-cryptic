@@ -4,7 +4,7 @@
 <img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
 
 <div align = "center">
-<img src= "https://readme-typing-svg.herokuapp.com?font=Lemon+Milk&weight=300&size=20&duration=2500&pause=500&color=31B6FF&center=true&vCenter=true&multiline=true&repeat=False&width=1000&height=135&lines=Welcome+to+my+GitHub+profile%2C+where+I+merge+the+realms;of+data+science+and+computer+science+in+a+symphony++of+;code+and+algorithms.+As+a+passionate+computer+science+;student%2C+I'm+constantly+exploring+the+ever-expanding;+universe+of+data-driven+insights."/>
+<img src= "https://readme-typing-svg.herokuapp.com?font=lemon+milk&size=22&duration=4000&pause=1000&color=31B6FF&center=true&vCenter=true&width=1045&lines=Welcome+to+my+GitHub+profile!+%F0%9F%8C%8C;Merging+data+science+and+computer+science+through+code+and+algorithms.+%F0%9F%92%BB%F0%9F%94%AC;Passionate+CS+student+exploring+the+ever-expanding+data-driven+universe.+%F0%9F%9A%80;Join+me+on+this+journey+of+insights+and+innovation!+%F0%9F%93%8A%F0%9F%92%A1"/>
 </div>
 
 --- 
