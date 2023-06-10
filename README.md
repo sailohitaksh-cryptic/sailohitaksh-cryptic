@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1> 
-<h3 align="center">"Exploring the Data Universe: Unleashing Insights with Code"</h3> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Sai%20Lohitaksh%20Reddy%20D&fontSize=60&animation=fadeIn&fontAlignY=38&desc="Exploring%20the%20Data%20Universe:%20Unleashing%20Insights%20with%20Code"&descAlignY=53&descAlign=54&descSize=20)
+<!--<h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1> 
+<h3 align="center">"Exploring%20the%20Data%20Universe:%20Unleashing%20Insights%20with%20Code"</h3> -->
 
 <img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
 
