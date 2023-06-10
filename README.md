@@ -41,7 +41,7 @@
 
 ---
 
-<h3 align="left">Github Stats:</h3>
+# <img width = 40 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg4MWY4ZGM4YzhlMGYyOTI1MjJlZDlhMzVhOWViZGI1YWEzZDBhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/CwTvSiWflgCGKgz5eb/giphy.gif"> Github Stats:
 <!--<p><img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=sailohitaksh-cryptic&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="sailohitaksh-cryptic" /> <img align = "right" src="https://komarev.com/ghpvc/?username=sailohitaksh-cryptic&label=Profile%20views&color=0371b5&style=plastic" alt="sailohitaksh-cryptic" /></p>-->
 
 <!--[Sai Lohitaksh Reddy D's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailohitaksh-cryptic&hide=contribs,issues&theme=github_dark&rank_icon=github&include_all_commits=false)-->
