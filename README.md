@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Sai%20Lohitaksh%20Reddy%20D&fontSize=60&animation=fadeIn&fontAlignY=38&desc="Exploring%20the%20Data%20Universe:%20Unleashing%20Insights%20with%20Code"&descAlignY=53&descAlign=54&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,6,7,8,10,12,14,15,17,18,19,20,21,22,23,24,25,26,27,28,30&height=300&section=header&text=Sai%20Lohitaksh%20Reddy%20D&fontSize=60&animation=fadeIn&fontAlignY=38&desc="Exploring%20the%20Data%20Universe:%20Unleashing%20Insights%20with%20Code"&descAlignY=53&descAlign=54&descSize=20)
 <!--<h1 align="center">Hi 👋, I'm Sai Lohitaksh Reddy</h1> 
 <h3 align="center">"Exploring%20the%20Data%20Universe:%20Unleashing%20Insights%20with%20Code"</h3> -->
-
-<img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
-
 <div align = "center">
 <img src= "https://readme-typing-svg.herokuapp.com?font=lemon+milk&size=22&duration=4000&pause=1000&color=31B6FF&center=true&vCenter=true&width=1045&lines=Welcome+to+my+GitHub+profile!+%F0%9F%8C%8C;Merging+data+science+and+computer+science+through+code+and+algorithms.+%F0%9F%92%BB%F0%9F%94%AC;Passionate+CS+student+exploring+the+ever-expanding+data-driven+universe.+%F0%9F%9A%80;Join+me+on+this+journey+of+insights+and+innovation!+%F0%9F%93%8A%F0%9F%92%A1"/>
 </div>
+
+<img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
 
 --- 
 
