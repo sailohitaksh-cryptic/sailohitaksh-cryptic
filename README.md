@@ -9,7 +9,7 @@
 
 --- 
 
-<img align="right" alt="coding" width="200" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gifcrop.gif">
+
 
 
 - 🌱 I’m currently a **Final year student** at [**TIET, Patiala.**](https://www.thapar.edu/)
@@ -30,13 +30,19 @@
     <img width = 90 src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gmail.gif" alt="gmail Badge"/>
   </a>
   <a href="https://sailohitaksh.wixsite.com/portfolio"> 
-    <img width = 100 src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/portfolio.gif" alt="LEETCODE Badge"/>
+    <img width = 100 src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/portfolio.gif" alt="Portfolio Badge"/>
   </a>
+  <a href="https://leetcode.com/rainasai603/">
+    <img width = 130 src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge">
+  </a>
+    
 </div>
 
 ---
 
 # 💻 Tech Stack:
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/8QmtLfbxE_wAAAAi/leetcode-algotime.gif">
+
 ### Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -48,6 +54,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ### Frameworks:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ### ML/DL:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
