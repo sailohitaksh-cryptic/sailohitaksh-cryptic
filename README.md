@@ -10,7 +10,6 @@
 --- 
 <img align="right" alt="coding" width="200" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gifcrop.gif">
 
-
 - 🌱 I’m currently a **Final year student** at [**TIET, Patiala.**](https://www.thapar.edu/)
 
 - 💬 I am open to projects/research related to **Machine Learning, Data Science, Computer Vision** 
