@@ -7,7 +7,6 @@
 
 <img align="center" alt="coding" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/code.gif">
 
-
 --- 
 <img align="right" alt="coding" width="200" src="https://github.com/sailohitaksh-cryptic/sailohitaksh-cryptic/blob/main/gifcrop.gif">
 
